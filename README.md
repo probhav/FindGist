@@ -1,13 +1,13 @@
 # GistFile
 
-Interested in open-source development?
-Problem in finding the right repository to contribute?
-This app is the solution.
-Navigate through Gists, Star them, Comment on your favorite Gist and start Contribute!
+Interested in open-source development?<br>
+Problem in finding the right repository to contribute?<br>
+This app is the solution.<br>
+Navigate through Gists, Star them, Comment on your favorite Gist and start Contribute!<br>
 
-• Navigate through Gists on Github
-• Star your favorite gist
-• Comment on Gists to support the author
+• Navigate through Gists on Github<br>
+• Star your favorite gist<br>
+• Comment on Gists to support the author<br>
 
 
 
