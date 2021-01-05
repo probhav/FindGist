@@ -1,4 +1,4 @@
-# GistFile
+# FindGist
 
 Interested in open-source development?<br>
 Problem in finding the right repository to contribute?<br>
