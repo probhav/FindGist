@@ -1,5 +1,7 @@
 # FindGist
-
+<br>
+Find it on Amazon App Store: https://www.amazon.com/nonwale-FindGist/dp/B08QN6VFPN/   <br>
+<br>
 Interested in open-source development?<br>
 Problem in finding the right repository to contribute?<br>
 This app is the solution.<br>
